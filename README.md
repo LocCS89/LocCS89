@@ -35,8 +35,7 @@ I'm Loc, a passionate student and aspiring developer from Hanoi, Vietnam. I'm cu
 
 ### 📫 Get in Touch:
 
-- Personal Site: [envifo.com](https://envifo.com/)
-- LinkedIn: [Bui Dang Loc](https://www.linkedin.com/in/bui-dang-loc/)
+- Personal Site: [https://dangbuiloccom/bui-dang-loc](https://dangbuiloc.wixsite.com/bui-dang-loc)
 - Email: [dangbuiloc@gmail.com](mailto:dangbuiloc@gmail.com)
 
 ### 🤝 Let's Connect and Collaborate!
