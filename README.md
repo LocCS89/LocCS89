@@ -18,7 +18,6 @@ I'm Loc, a passionate student and aspiring developer from Hanoi, Vietnam. I'm cu
 
 - **[Hand Tracking Drawing Board](https://github.com/LocCS89/HandTracking)**: An application that enables intuitive drawing through hand gestures, powered by MediaPipe and Python.
 
-- 
 ### 💻 Work Experience:
 
 - **Data Scientist Intern** at **MISA+** (07/2023 - 09/2023): Engaged in data preprocessing and predictive model development, contributing significantly to forecast accuracy and model efficiency.
