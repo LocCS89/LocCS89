@@ -1,4 +1,4 @@
-# Bui Dang Loc - @envifo
+# Bui Dang Loc 
 
 ## Hello there! 👋
 
